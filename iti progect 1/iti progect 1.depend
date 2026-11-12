@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792504609 source:c:\users\elmnshawy\desktop\hoda.c++\iti progect 1\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+

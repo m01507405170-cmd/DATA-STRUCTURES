@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794379746 source:c:\users\elmnshawy\desktop\hoda.c++\amola\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

@@ -1,0 +1,5 @@
+== Pharma Core Pharmacy ==
+------
+Discount: 2.75
+Total to pay: 52.25
+Paid: 100

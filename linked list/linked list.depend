@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792267375 source:c:\users\elmnshawy\desktop\hoda.c++\linked list\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+

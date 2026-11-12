@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793010923 source:c:\users\elmnshawy\desktop\hoda.c++\code plandrome\main.cpp
+	<iostream>
+	<stack>
+
